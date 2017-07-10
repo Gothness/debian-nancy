@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Nancy Debian Theme
+Description=SDDM Nancy Debian Theme
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/Gothness/SDDM-NancyDebian
+Screenshot=screenshot.png
+MainScript=DebianNancy.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=nancydebian
+Theme-API=2.0
